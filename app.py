@@ -31,5 +31,5 @@ def get_questions():
     # Return the JSON data as a JSON response
     return jsonify(data)
 
-if __name__ == '__main__':
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     app.run(debug=True)
